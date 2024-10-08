@@ -1,0 +1,42 @@
+[{
+    "id":1,
+
+    "name": "elena reyes",
+    "lastName": "reyes",
+    "email": "20203tn003@utez.edu.mx",
+    "photo": "https://thispersondoesnotexist.com/",
+    "favoriteArtis":["Mana", "The Mana","Traisionera"]
+},
+{
+    "id":2,
+    "name": "juan",
+    "lastName": "flores",
+    "email": "20206tn003@utez.edu.mx",
+    "photo": "https://thispersondoesnotexist.com/",
+    "favoriteArtis":["Blanca", "Rata","Rock"]
+},
+{
+    "id":3,
+    "name": "lili",
+    "lastName": "domingues",
+    "email": "20210tn003@utez.edu.mx",
+    "photo": "https://thispersondoesnotexist.com/",
+    "favoriteArtis":["Flores", "Amarillas","Rock"]
+},
+{
+    "id":4,
+    "name": "aylin",
+    "lastName": "carmona",
+    "email": "20210tn008@utez.edu.mx",
+    "photo": "https://thispersondoesnotexist.com/",
+    "favoriteArtis":["Cold", "Amarillas","Rock"]
+},
+{
+    "id":5,
+    "name": "diego",
+    "lastName": "alanis",
+    "email": "20210tn009@utez.edu.mx",
+    "photo": "https://thispersondoesnotexist.com/",
+    "favoriteArtis":["Play", "ACristos","Lesama"]
+}
+]
